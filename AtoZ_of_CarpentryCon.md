@@ -100,7 +100,7 @@ In case of emergency, please contact the Welcome Team/organizers via phone (numb
 
 Here is a list of few other emergency contacts:
 - Campus Services (for on-campus emergencies): 01 716 7999
-- Ambulance/ Gardaí and Emergency Services: 999 or 112
+- Ambulance/ Gardaí (police) and Emergency Services: 999 or 112
 - Nearest pharmacy: [Procare Pharmacy UCD](https://goo.gl/maps/hoxNWogRPWE2), Phone: 017163840
 - Check the list of all other important contacts on [this page](https://github.com/carpentries/carpentrycon/blob/master/venue.md).
 
